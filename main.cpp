@@ -9,6 +9,7 @@
 // 1: create list of visible cards.
 // 2: Finish player functions to play cards, and attack.
 // 3: return actions
+// changes
 
 // kill opponent
 /// summon creatures
